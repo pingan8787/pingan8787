@@ -13,6 +13,10 @@
 
 完整知识库，请查看我的[💌【语雀知识库】](https://www.yuque.com/wangpingan/cute-frontend)，阅读体验更好。
 
+<a title="Hits" target="_blank" href="https://github.com/pingan8787/pingan878"></a>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=pingan878&show_icons=true)](https://github.com/pingan878)
+
 <!--
 **pingan8787/pingan8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
