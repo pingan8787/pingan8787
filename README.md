@@ -15,7 +15,7 @@
 
 <a title="Hits" target="_blank" href="https://github.com/pingan8787/pingan878"></a>
 
-[![pingan8787's github stats](https://github-readme-stats.vercel.app/api?username=pingan8787)](https://github.com/pingan8787)
+[![pingan8787's github stats](https://github-readme-stats.vercel.app/api?username=pingan8787&show_icons=true)](https://github.com/pingan8787)
 
 <!--
 **pingan8787/pingan8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
