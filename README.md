@@ -17,6 +17,8 @@
 
 [![pingan8787's github stats](https://github-readme-stats.vercel.app/api?username=pingan8787&show_icons=true)](https://github.com/pingan8787)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingan8787)](https://github.com/pingan8787)
+
 <!--
 **pingan8787/pingan8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
