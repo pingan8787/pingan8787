@@ -16,8 +16,9 @@
 <a title="Hits" target="_blank" href="https://github.com/pingan8787/pingan878"></a>
 
 [![pingan8787's github stats](https://github-readme-stats.vercel.app/api?username=pingan8787&show_icons=true)](https://github.com/pingan8787)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingan8787)](https://github.com/pingan8787)
+-->
 
 <!--
 **pingan8787/pingan8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![公众号](http://images.pingan8787.com/2019_07_12guild_page.png)
+<img src="http://images.pingan8787.com/2019_07_12guild_page.png" width="680px"/>
