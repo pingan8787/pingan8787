@@ -1,4 +1,4 @@
-前端宝藏小哥哥一枚~~
+🌼 前端宝藏小哥哥 | 🚲骑行爱好者 | 💐分享爱好者
 
 ### About the author 👋
 [![博客](http://images.pingan8787.com/icon_my1.png)](http://www.pingan8787.com)
@@ -10,6 +10,8 @@
 [![简书](http://images.pingan8787.com/icon_jianshu1.png)](https://www.jianshu.com/u/2ec5d94afd60)
 
 个人博客：http://www.pingan8787.com
+
+视频号：安先生的故事
 
 完整知识库，请查看我的[💌【语雀知识库】](https://www.yuque.com/wangpingan/cute-frontend)，阅读体验更好。
 
@@ -35,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://images.pingan8787.com/2019_07_12guild_page.png" width="680px"/>
+<img src="https://images.pingan8787.com/image/share.gif" width="680px"/>
