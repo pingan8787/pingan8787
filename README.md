@@ -9,7 +9,7 @@
 [![CSDN](http://images.pingan8787.com/icon_csdn1.png)](https://blog.csdn.net/qq_36380426)
 [![简书](http://images.pingan8787.com/icon_jianshu1.png)](https://www.jianshu.com/u/2ec5d94afd60)
 
-* 个人标签：🌼 前端宝藏小哥哥 | 🚲骑行爱好者 | 💐分享爱好者
+* 个人标签：🌼 前端宝藏小哥哥 | 🚲 骑行爱好者 | 💐 分享爱好者 ｜ 🤖 AI 狂想者
 * 个人博客：[https://www.yuque.com/wangpingan](https://www.yuque.com/wangpingan)
 * 1500+ AI 工具集合：[Finding the AI tools you need!](https://github.com/pingan8787/awesome-ai-tools)
 * 前端微信公众号：前端自习课
