@@ -15,7 +15,7 @@
 * 前端微信公众号：前端自习课
 * AI 微信公众号：AI 工具派
 
-完整知识库，请查看我的[💌【语雀知识库】]([https://www.yuque.com/wangpingan/cute-frontend](https://www.yuque.com/wangpingan))，阅读体验更好。
+完整知识库，请查看我的[💌【语雀知识库】](https://www.yuque.com/wangpingan)，阅读体验更好。
 
 <a title="Hits" target="_blank" href="https://github.com/pingan8787/pingan878"></a>
 
