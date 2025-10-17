@@ -14,7 +14,7 @@
 * 1500+ AI 工具集合：[Finding the AI tools you need!](https://github.com/pingan8787/awesome-ai-tools)
 * 前端微信公众号：前端自习课
 * AI 微信公众号：AI 工具派
-* AI 产品：[WiseMindAI](https://wisemind-ai.com/)
+* AI 产品：[WiseMindAI](https://wisemindai.app/?utm_source=github-pingan8787)
 
 完整知识库，请查看我的[💌【语雀知识库】](https://www.yuque.com/wangpingan)，阅读体验更好。
 
