@@ -9,9 +9,9 @@
 * AI 产品知识库：[AI 工具分享](https://www.yuque.com/wangpingan/ai_tools/tools)
 * 1500+ AI 工具集合：[Finding the AI tools you need!](https://github.com/pingan8787/awesome-ai-tools)
 
-<a title="Hits" target="_blank" href="https://github.com/pingan8787/pingan878"></a>
+<!-- <a title="Hits" target="_blank" href="https://github.com/pingan8787/pingan878"></a>
 
-[![pingan8787's github stats](https://github-readme-stats.vercel.app/api?username=pingan8787&show_icons=true)](https://github.com/pingan8787)
+[![pingan8787's github stats](https://github-readme-stats.vercel.app/api?username=pingan8787&show_icons=true)](https://github.com/pingan8787) -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingan8787)](https://github.com/pingan8787)
 -->
