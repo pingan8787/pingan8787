@@ -3,7 +3,7 @@
 * 个人标签：🤖 AI 独立开发者 | 🌼 前端宝藏小哥哥 | 🚲 骑行爱好者 | 💐 分享爱好者 ｜ 
 * 个人博客：[打开](https://aichris.cc/)
 * 前端微信公众号：前端自习课
-* AI 微信公众号：AI 工具派
+* AI 微信公众号：AI工具派、AI看个热闹
 * AI 产品：[WiseMindAI](https://wisemindai.app/?utm_source=github-pingan8787)
 * AI 产品：[image2prompt](https://image2prompt.aichris.cc/)
 * AI 产品知识库：[AI 工具分享](https://www.yuque.com/wangpingan/ai_tools/tools)
